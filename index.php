@@ -1,7 +1,7 @@
 <?php
 
 // public bisa di akses oleh siapapun baik adri luar, turunan
-//  protected bisa di akses dari turunan tidak bisa dari luar
+// protected bisa di akses dari turunan tidak bisa dari luar
 // private tidak bisa di akses dari luar
 class Mobil
 {
